@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Salam, necəsən?
 Adin nedi
+=======
+salam.
+Necəsən??
+>>>>>>> c703ac015ea4040f38a7eb6f6f982a73be50d153
