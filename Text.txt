@@ -2,4 +2,9 @@ Salam, necəsən?
 Adin nedi
 salam.
 Necəsən??
+<<<<<<< HEAD
 s
+=======
+>>>>>>> c703ac015ea4040f38a7eb6f6f982a73be50d153
+create_error
+>>>>>>> 5f831b905983581f9a7f01c5b2ad1e19bac9b093
